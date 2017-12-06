@@ -14,6 +14,5 @@
 	</li>
 	<!-- END breadcrumbs -->
 </ol>
-</div>
-<div class="container" id="content" style="background: white; padding: 15px;">
+
 <!-- ENDIF breadcrumbs.length -->
