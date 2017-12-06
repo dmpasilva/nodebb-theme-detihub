@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-persona",
-    "name": "Persona",
-    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "id": "nodebb-theme-detihub",
+    "name": "deti hub",
+    "description": "The default theme for deti hub. Based on NodeBB's default theme, Persona.",
+    "url": "https://github.com/dmpasilva/nodebb-theme-detihub",
     "screenshot": "screenshot.png"
 }

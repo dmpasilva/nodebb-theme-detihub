@@ -1,21 +1,22 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-detihub",
   "version": "7.2.4",
   "nbbpm": {
     "compatibility": "^1.7.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "Detihub theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/dmpasilva/nodebb-theme-detihub"
   },
   "keywords": [
     "nodebb",
     "theme",
     "forum",
     "bootstrap",
-    "responsive"
+    "responsive",
+    "detihub"
   ],
   "contributors": [
     {
@@ -32,11 +33,16 @@
       "name": "Barış Soner Uşaklı",
       "email": "baris@designcreateplay.com",
       "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "David Silva",
+      "email": "david@davidsilva.pt",
+      "url": "https://github.com/dmpasilva"
     }
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/dmpasilva/nodebb-theme-detihub/issues"
   },
   "dependencies": {
     "striptags": "^3.1.0",

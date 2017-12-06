@@ -9,7 +9,7 @@
 				<button type="button" class="close hidden-xs hidden-sm" data-action="minimize"><span aria-hidden="true"><i class="fa fa-minus"></i></span><span class="sr-only">[[modules:chat.minimize]]</span></button>
 				<button class="close" component="chat/controlsToggle"><i class="fa fa-gear"></i></button>
 
-				<h4><!-- IF roomName -->{roomName}<!-- ELSE -->{usernames}<!-- ENDIF roomName --></h4>
+				<h4>{usernames}</h4>
 
 				<form component="chat/controls" style="display: none;">
 					<!-- IF showUserInput -->
@@ -17,7 +17,6 @@
 						<input class="users-tag-input" type="text" class="form-control" placeholder="enter users here" tabindex="4"/>
 					</div>
 					<!-- ENDIF showUserInput -->
-					<input class="form-control" component="chat/room/name" value="{roomName}" <!-- IF !isOwner -->disabled<!-- ENDIF !isOwner -->/>
 				</form>
 			</div>
 

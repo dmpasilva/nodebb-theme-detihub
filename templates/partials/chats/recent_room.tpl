@@ -4,7 +4,7 @@
 		<!-- IF !rooms.lastUser.uid -->
 		<span>[[modules:chat.no-users-in-room]]</span>
 		<!-- ELSE -->
-		<!-- IF rooms.roomName -->{rooms.roomName}<!-- ELSE -->{rooms.usernames}<!-- ENDIF rooms.roomName -->
+		{rooms.usernames}
 		<!-- ENDIF !rooms.lastUser.uid -->
 	</strong>
 	<div class="avatar-placeholder"></div>

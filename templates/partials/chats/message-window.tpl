@@ -10,7 +10,6 @@
 		</div>
 		<!-- ENDIF showUserInput -->
 
-		<input class="form-control" component="chat/room/name" value="{roomName}" <!-- IF !isOwner -->disabled<!-- ENDIF !isOwner -->/>
 		<hr />
 	</div>
 
