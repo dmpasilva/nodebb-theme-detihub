@@ -1,4 +1,4 @@
-Persona theme for NodeBB
+detihub theme for NodeBB
 ====================
 
 This is a custom nodeBB theme based on Persona, the default theme for NodeBB as of v0.7.1
